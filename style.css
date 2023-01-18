@@ -59,7 +59,7 @@ h1, h2, h3, h4, p, ol, ul{margin-bottom: 1.6rem;font-weight: 600;}
 
 @media (max-width: 768px) {
   
-  body {padding-top: 50px;}
+  body {padding-top: 40px;}
   .header-container {position: fixed; top: 0;left: 0; width: 100%; z-index: 99;}
   .header__menu {background: #333; position: absolute; top: 44px; left: -100%;display: block;z-index: 99;padding: 10px; height: 100vh;transition: all 1s cubic-bezier(.215, .61, .355, 1);}
   .header__menu li {display: block;}
