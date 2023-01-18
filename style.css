@@ -110,8 +110,8 @@ h1, h2, h3, h4, p, ol, ul{margin-bottom: 1.6rem;font-weight: 600;}
 .ipad-big-3 {width: 80%;z-index: 0;margin-left: 180px;}
 
 @media (max-width: 768px) {
-  .ipad-big {width: 120%;margin-top: 50px;}
-  .ipad-big-3 {width: 120%;margin-top: 100px;}  
+  .ipad-big {width: 120%;margin-top: 50px;margin-left: 0;}
+  .ipad-big-3 {width: 120%;margin-top: 100px;margin-left: 0;}  
 }
 
 
